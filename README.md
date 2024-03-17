@@ -8,9 +8,9 @@ Bachelors of Technology -JNTUH (August 2016 - August 2020)
 
 ## Skills
 - **Languages:** Core Java, Java 8,PHP,SQL
-- **Frameworks & Scripting languages:**Spring Frameworks, Spring Boot, Spring Data JPA, Hibernate, Angular, AngularJS, React.js , angular,node.js, HTML 5, CSS3, XML, JavaScript ,SOAP,REST
-- **Database: My SQL, Mongo DB, Dynamo DB.
-- **Cloud Technologies & Deployments:**AWS, Docker, Kubernetes, GCP, Azure ,PCF, terraform ,Sonar Cube, Splunk, Jacoco ,Looper.
+- **Frameworks & Scripting languages:** Spring Frameworks, Spring Boot, Spring Data JPA, Hibernate, Angular, AngularJS, React.js , angular,node.js, HTML 5, CSS3, XML, JavaScript ,SOAP,REST
+- **Database:** My SQL, Mongo DB, Dynamo DB.
+- **Cloud Technologies & Deployments:** AWS, Docker, Kubernetes, GCP, Azure ,PCF, terraform ,Sonar Cube, Splunk, Jacoco ,Looper.
 - **Technologies & Extras:** GIT, Gradle, Maven, JIRA, (CI/CD)Jenkins, GitLab, GitHub, Agile methodology, Junit, Apache Kafka, IAAS,PAAS Platforms.
 - **Software Tools:** Eclipse IDE, IntelliJ, Visual studio, Microsoft Office Products.
 
