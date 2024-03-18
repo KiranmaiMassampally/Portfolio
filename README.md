@@ -3,8 +3,8 @@
 As a full-stack developer, I am driven by a profound passion for leveraging cutting-edge technologies to build innovative solutions. With expertise spanning both frontend and backend development, I thrive on crafting seamless user experiences and robust architectures. My journey in software engineering is marked by a relentless pursuit of excellence, where I continuously push the boundaries of what's possible. Whether it's architecting scalable microservices or designing intuitive user interfaces, I am committed to delivering high-quality, impactful solutions that meet and exceed user expectations. With a keen eye for detail and a deep understanding of industry best practices, I am dedicated to driving technological advancements and creating meaningful impacts in every project I undertake.
 
 ## Education
-Masters in computer science -University of Missouri Kansas City (Aug 2021 to Dec 2022)
-Bachelors of Technology -JNTUH (August 2016 - August 2020)
+- **Masters in computer science -University of Missouri Kansas City ** (Aug 2021 to Dec 2022)
+- **Bachelors of Technology -JNTUH **(August 2016 - August 2020)
 
 ## Skills
 - **Languages:** Core Java, Java 8,PHP,SQL
